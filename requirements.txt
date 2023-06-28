@@ -5,3 +5,4 @@ fuzzywuzzy
 redis
 faiss-cpu
 gunicorn
+python-dotenv
