@@ -5,3 +5,4 @@ langchain
 fuzzywuzzy
 redis
 faiss-cpu
+gunicorn
