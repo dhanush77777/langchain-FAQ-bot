@@ -6,3 +6,4 @@ redis
 faiss-cpu
 gunicorn
 python-dotenv
+pip==23.1.2
