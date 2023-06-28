@@ -1,0 +1,7 @@
+openai
+tiktoken
+flask
+langchain
+fuzzywuzzy
+redis
+faiss-cpu
