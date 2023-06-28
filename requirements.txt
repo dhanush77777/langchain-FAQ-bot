@@ -1,5 +1,4 @@
 openai
-tiktoken
 flask
 langchain
 fuzzywuzzy
